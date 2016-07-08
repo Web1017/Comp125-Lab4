@@ -3,8 +3,8 @@
  * @Author Javid Niftaliyev
  * Student ID: 300742916
  * @description: This is the main javascript file for the current web site.
- * Website(Azure):
- * Website(Github): 
+ * Website(Azure):http://comp125-lab4-2016.azurewebsites.net/
+ * Website(Github): https://github.com/Web1017/Comp125-Lab4
  * 
  */
 
